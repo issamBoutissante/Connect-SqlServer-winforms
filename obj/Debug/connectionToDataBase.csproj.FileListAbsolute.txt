@@ -1,0 +1,10 @@
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\connectionToDataBase\bin\Debug\connectionToDataBase.exe.config
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\connectionToDataBase\bin\Debug\connectionToDataBase.exe
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\connectionToDataBase\bin\Debug\connectionToDataBase.pdb
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\connectionToDataBase\obj\Debug\connectionToDataBase.csprojAssemblyReference.cache
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\connectionToDataBase\obj\Debug\connectionToDataBase.Form1.resources
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\connectionToDataBase\obj\Debug\connectionToDataBase.Properties.Resources.resources
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\connectionToDataBase\obj\Debug\connectionToDataBase.csproj.GenerateResource.cache
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\connectionToDataBase\obj\Debug\connectionToDataBase.csproj.CoreCompileInputs.cache
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\connectionToDataBase\obj\Debug\connectionToDataBase.exe
+C:\Users\bouti\OneDrive\سطح المكتب\web dev client serveur\connectionToDataBase\obj\Debug\connectionToDataBase.pdb
