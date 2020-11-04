@@ -10,10 +10,10 @@ using System.Configuration;
 
 namespace connectionToDataBase
 {
-    public partial class Form1 : Form
+    internal partial class Form1 : Form
     {
-        public readonly string dataBase = ConfigurationManager.ConnectionStrings["monDataBase"].ConnectionString;
-        public SqlConnection mon_Connection
+        readonly string dataBase = "data sourc e= . ; database = Volavion; integrated security = SSPI";
+        SqlConnection mon_Connection;
         public Form1()
         {
             InitializeComponent();
@@ -24,9 +24,16 @@ namespace connectionToDataBase
 
         private void Ouvrire_Connection_Click(object sender, EventArgs e)
         {
-            if (mon_Connection.State.ToString() == "Open") return;
-            mon_Connection.Open();
-            Afficher_Etat();
+            try
+            {
+                mon_Connection.Open();
+                Afficher_Etat();
+            }
+            catch
+            {
+                Console.WriteLine("il ya un problem");
+            }
+          
         }
 
         private void button1_Click(object sender, EventArgs e)
